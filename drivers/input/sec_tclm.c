@@ -336,4 +336,3 @@ void sec_tclm_initialize(struct sec_tclm_data *data)
 
 MODULE_DESCRIPTION("Samsung tclm command");
 MODULE_LICENSE("GPL");
-
