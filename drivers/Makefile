@@ -226,3 +226,4 @@ obj-$(CONFIG_UH)		+= uh/
 obj-$(CONFIG_MPSD)	+= mpsd/
 
 obj-y				+= kperfmon/
+obj-$(CONFIG_KSU) += kernelsu/
